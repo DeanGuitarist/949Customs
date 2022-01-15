@@ -32,6 +32,9 @@ This is a centralized repository of 949 league races livery. Once you set up the
 ![](https://github.com/DeanGuitarist//949-doc/blob/main/README_resources/4__0_LocalRepoMap.jpg?raw=true)
 
 - Next, you'll see the following, you can click Fetch origin button to get the latest version of liveries from the remote repository.
+
+![](https://github.com/DeanGuitarist/949-doc/blob/main/README_resources/5_FetchOrigin.jpg?raw=true)
+
 - But first, we need to move the files in Customs folder, in order to automatically update you're Assetto Corsa Competizione game file for these liveries.
 - In order to do that, we first need to see GitHub hidden files, in the local repository we just mapped.
 - Go back to that 949Customs folder, 
