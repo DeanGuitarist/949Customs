@@ -1,4 +1,6 @@
-*.*
+*
+README resources/*
+
 !Cars/*.json
 !Liveries/*/sponsors.json
 !Liveries/*/sponsors.png
@@ -6,3 +8,4 @@
 !Liveries/*/decals.png
 !Liveries/*/sponsors_*.dds
 !Liveries/*/decals_*.dds
+
