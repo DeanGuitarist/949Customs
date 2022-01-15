@@ -1,6 +1,7 @@
+# Every files (Black-list)
 *
-README resources/*
 
+# White list of files we're looking to share
 !Cars/*.json
 !Liveries/*/sponsors.json
 !Liveries/*/sponsors.png
