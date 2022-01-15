@@ -1,12 +1,2 @@
 # Every files (Black-list)
-*
-
-# White list of files we're looking to share
-!Cars/*.json
-!Liveries/*/sponsors.json
-!Liveries/*/sponsors.png
-!Liveries/*/decals.json
-!Liveries/*/decals.png
-!Liveries/*/sponsors_*.dds
-!Liveries/*/decals_*.dds
-
+*.*
